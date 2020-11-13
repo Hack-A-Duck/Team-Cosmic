@@ -28,5 +28,7 @@ ____
   **Imp - PHP version 7 or more must be installed beforehand**
 * Keeping the command prompt open/minimized, open your browser window and type http://localhost:5000 into the address bar.
 * Now the site is live on your local system, any changes made to the repos made on your system will be reflected on the site.
+* But you won't be able to enjoy the full functionality until you import the database given in the DataBases folder.
 
-  Of course it's much much easier to just view the site on this link - http://tidbits.rf.gd/
+  Of course it's much much easier to just view the site and see all the features on this link - http://tidbits.rf.gd/
+  
