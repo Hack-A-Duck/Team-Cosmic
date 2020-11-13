@@ -16,6 +16,8 @@ ____
 * JavaScript
 ## Setup on local system
 * Clone the repos on your system
+* Import the database in the DataBases folder into your system using MySQL Workbench
+  **Imp - MySQL should be intalled beforehand**
 * On command prompt, navigate to the folder where the repos is cloned using cd command <br>
   ```cd <address of the folder in system where index.php exists>```
 * If the repos exists on a drive other than C drive, enter the following piece of code before the above one <br>
